@@ -1,6 +1,7 @@
 ### Projetinho Felllas 🤙
 
 - 😃 Seja bem vindo ao meu perfil!
+- ❤ Amo a área do Front-end!
 
 <div>
     <a href="https://github.com/VitorBsdc">
