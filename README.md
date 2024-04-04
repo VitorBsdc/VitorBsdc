@@ -1,7 +1,10 @@
-### Olá, prazer Vitor Benedito!
+### Olá, sou Vitor Benedito!
+###
+### Sou estudante em ADS, estou no 3° semestre e minha formação está prevista para 06/2025. Além da faculdade, tenho formação técnica em Desenvolvimento de Sistemas no Senai Suíço-Brasileira. Amo esportes no geral, prático musculação e corrida de rua. Curto a natureza, experiências novas e rolês culturais. Este é um breve resumo sobre mim.
 
 - 😃 Seja bem vindo ao meu perfil!
-- ❤ Amo a área do Front-end!
+- ❤ Gosto de trabalhar de com Front-end
+- 
 
 <div>
     <a href="https://github.com/VitorBsdc">
