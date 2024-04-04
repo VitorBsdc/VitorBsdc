@@ -23,6 +23,8 @@
     <img align="center" alt="VitorBsdc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="VitorBsdc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="VitorBsdc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="VitorBsdc" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+    <img align="center" alt="VitorBsdc" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
     <img align="center" alt="VitorBsdc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
   
