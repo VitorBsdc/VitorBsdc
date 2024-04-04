@@ -5,7 +5,7 @@
 
 - 😃 Seja bem vindo ao meu perfil!
 - ❤ Gosto de trabalhar de com Front-end
-- 
+- 👨‍💻 Progamo desde 2021
 
 <div>
     <a href="https://github.com/VitorBsdc">
