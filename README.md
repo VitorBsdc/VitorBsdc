@@ -3,9 +3,9 @@
 ### Sou estudante em ADS, estou no 3° semestre e minha formação está prevista para 06/2025. Além da faculdade, tenho formação técnica em Desenvolvimento de Sistemas no Senai Suíço-Brasileira. Amo esportes no geral, prático musculação e corrida de rua. Curto a natureza, experiências novas e rolês culturais. Este é um breve resumo sobre mim.
 ### (I'm an ADS student, I'm in the 3rd semester and my training is scheduled for 06/2025. In addition to college, I have technical training in Systems Development at the Swiss-Brazilian Senai. I love sports in general, doing bodybuilding and street running. I enjoy nature, new experiences and cultural activities. This is a brief summary about me.)
 
-- 😃 Seja bem vindo ao meu perfil!
-- ❤ Gosto de trabalhar de com Front-end
-- 👨‍💻 Progamo desde 2021
+- 😃 Seja bem vindo ao meu perfil! (Welcome to my profile!)
+- Desenvolvimento de Sistemas (Técnico) - Senai - 2022 (Systems Development (Technical) - Senai - 2022)
+- Análise e Desenvolvimento de Sistemas (Tecnólogo) - Anhanguera - 3/5 (Systems Analysis and Development (Technologist) - Anhanguera - 3/5)
 
 <div>
     <a href="https://github.com/VitorBsdc">
