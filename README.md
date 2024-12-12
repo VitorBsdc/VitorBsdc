@@ -1,7 +1,7 @@
 ### Olá, sou Vitor Benedito! (Hello, I'm Vitor Benedito!)
 ###
-### Sou estudante em ADS, estou no 4° semestre e minha formação está prevista para 06/2025. Além da faculdade, tenho formação técnica em Desenvolvimento de Sistemas no Senai Suíço-Brasileira. Amo esportes no geral, prático musculação e corrida de rua. Curto a natureza, experiências novas e rolês culturais. Este é um breve resumo sobre mim.
-### (I'm an ADS student, I'm in the 4rd semester and my training is scheduled for 06/2025. In addition to college, I have technical training in Systems Development at the Swiss-Brazilian Senai. I love sports in general, doing bodybuilding and street running. I enjoy nature, new experiences and cultural activities. This is a brief summary about me.)
+### Sou estudante em ADS, estou no 5° semestre e minha formação está prevista para 06/2025. Além da faculdade, tenho formação técnica em Desenvolvimento de Sistemas no Senai Suíço-Brasileira. Amo esportes no geral, prático musculação e corrida de rua. Curto a natureza, experiências novas e rolês culturais. Este é um breve resumo sobre mim.
+### I'm an ADS student, I'm in the 5rd semester and my training is scheduled for 06/2025. In addition to college, I have technical training in Systems Development at the Swiss-Brazilian Senai. I love sports in general, doing bodybuilding and street running. I enjoy nature, new experiences and cultural activities. This is a brief summary about me.
 
 - 😃 Seja bem vindo ao meu perfil! (Welcome to my profile!)
 - 👨‍💻 Desenvolvimento de Sistemas (Técnico) - Senai - 2022 (Systems Development (Technical) - Senai - 2022)
